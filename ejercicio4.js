@@ -1,5 +1,5 @@
-let fecha1 = new Date('2024-08-25');
-let fecha2 = new Date('2024-12-8');
+let fecha1 = new Date('2024-08-25')
+let fecha2 = new Date('2024-12-8')
 
 let diferencia = fecha2 - fecha1;
 
